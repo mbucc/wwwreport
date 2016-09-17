@@ -1,0 +1,29 @@
+AhrefsBot
+Applebot
+Baiduspider
+DuckDuckGo-Favicons-Bot
+Exabot
+Feedly
+FlipboardProxy
+Googlebot
+Google Favicon
+MJ12bot
+NetShelter
+PaperLiBot
+SeznamBot
+SocialRankIOBot
+Stratagems Kumo
+SurveyBot
+Twitterbot
+UniversalFeedParser
+Veoozbot
+YandexBot
+Yahoo! Slurp
+bingbot
+curl\/7\.
+facebookexternalhit
+keybase-proofs
+panscient.com
+roboto
+rogerbot
+spbot

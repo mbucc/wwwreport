@@ -1,0 +1,1 @@
+12  6  *  *  *  (cd $HOME/wwwreport ; ./report.sh |mail -s "Web Stats" mkbucc@gmail.com)

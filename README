@@ -1,0 +1,16 @@
+I use this for my blog stats.
+It processes common log format access log entries
+and sends me an email once a day with yesterday's report.
+
+Some stdin --> stdout filters:
+
+	html.sh        lets HTML requests through filter
+	bot.sh         let bot requests through filter
+	nobot.sh       let non-bot requests through filter
+
+Other files:
+
+	botlist.txt    defines what a bot is.  (regex applied to user agent string)
+	parseday.sh    give it a number of days ago and it outputs all access log entries for that day
+	sync.sh        sync wwwreport directory from server to my localhost
+	crontab.entry  the command that generates the report
