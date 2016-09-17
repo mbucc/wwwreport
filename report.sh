@@ -52,7 +52,7 @@ cat $F \
 
 printf "\n\nChange Log\n"
 printf "2016-09-17\n"
-printf "  * add Stratagems Kumo, roboto and AhrefsBot to bot list"
+printf "  * add Stratagems Kumo, roboto and AhrefsBot to bot list\n"
 printf "2016-09-14\n"
 printf "  * show list of IP's in top domain section"
 printf "2016-08-31\n"
