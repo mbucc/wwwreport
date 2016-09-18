@@ -1,3 +1,12 @@
+2016-09-18  Mark Bucciarelli <mkbucc@gmail.com>
+
+	* bot.sh, nobot.sh, report.sh: Remove $HOME/bin references
+	  Scripts assume current directory is where they live.
+
+	* pull.sh, sync.sh: Rename sync.sh to pull.sh
+
+	* .gitignore, pull.sh: Added
+
 
 2016-09-17  Mark Bucciarelli <mkbucc@gmail.com>
 
