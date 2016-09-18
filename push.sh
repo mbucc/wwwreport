@@ -10,12 +10,4 @@ parseday.sh
 report.sh
 "
 
-SRC="./{"
-DELIM=""
-for f in $FILES; do
-	SRC="${SRC}${DELIM}${f}"
-	DELIM=","
-done
-SRC=${SRC}}
-
-rsync -avz "$SRC" www:wwwreport
+rsync -avz $FILES www:wwwreport
