@@ -22,6 +22,7 @@ Yahoo! Slurp
 bingbot
 curl\/7\.
 facebookexternalhit
+ips-agent
 keybase-proofs
 panscient.com
 roboto
