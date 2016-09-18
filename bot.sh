@@ -1,3 +1,3 @@
 #! /bin/sh -e
 
-egrep -if $HOME/bin/botlist.txt
+egrep -if botlist.txt
