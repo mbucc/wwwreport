@@ -7,6 +7,8 @@
 
 	* .gitignore, pull.sh: Added
 
+	* botlist.txt: Added VeriSign bot (ips-agent).
+
 
 2016-09-17  Mark Bucciarelli <mkbucc@gmail.com>
 
